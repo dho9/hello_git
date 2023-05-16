@@ -4,4 +4,8 @@ public class ABCDE {
 	private void abc() {
 
 	}
+	
+	private void def() {
+		
+	}
 }
